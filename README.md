@@ -8,7 +8,7 @@ npm install @tiptap/vue-2 @tiptap/starter-kit
 npm install @tiptap/extension-link
 npm install @tiptap/extension-underline
 npm install @tiptap/extension-image
-npm insatall axios vue-axios
+npm install axios vue-axios
 ```
 
 ### Compiles and hot-reloads for development
